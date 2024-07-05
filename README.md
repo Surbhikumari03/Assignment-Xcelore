@@ -1,0 +1,1 @@
+A platform enables doctors to register patients via a mobile or web portal, requiring backend APIs to add doctors, their specialties, and patients' symptoms. The database stores doctors and patients' data, with validation required for fields like name, city, email, and phone number.
